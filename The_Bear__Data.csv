@@ -1,0 +1,101 @@
+Ticket_ID,Pricing_Type,Covers,Check_Total,Payment_Type,Gender,Marital_Status,Age
+1,Standard,1,139.5,Discover,Male,Single,27
+2,Discount,1,202.4,Berzatto House Account,Male,Married,49
+3,Standard,1,122.5,Berzatto House Account,Male,Single,27
+4,Discount,5,200.4,Berzatto House Account,Female,Single,49
+5,Standard,2,154.0,MasterCard,Female,Single,24
+6,Standard,1,144.5,MasterCard,Male,Single,26
+7,Discount,2,178.0,Berzatto House Account,Female,Single,54
+8,Standard,1,122.5,Visa,Male,Married,27
+9,Discount,2,156.52,Berzatto House Account,Male,Single,56
+10,Standard,1,144.5,Berzatto House Account,Female,Single,25
+11,Standard,1,129.5,Berzatto House Account,Female,Single,27
+12,Discount,1,131.6,Berzatto House Account,Male,Married,60
+13,Discount,9,260.4,Visa,Female,Married,46
+14,Discount,2,164.5,Visa,Female,Single,53
+15,Standard,1,149.5,Visa,Male,Single,25
+16,Discount,2,171.4,Berzatto House Account,Male,Single,49
+17,Discount,3,194.0,Berzatto House Account,Female,Single,24
+18,Standard,3,154.5,Discover,Male,Single,23
+19,Discount,2,138.5,MasterCard,Male,Single,39
+20,Discount,6,144.8,Berzatto House Account,Female,Single,45
+21,Discount,1,131.6,Berzatto House Account,Male,Single,19
+22,Discount,4,170.82,Berzatto House Account,Male,Single,59
+23,Discount,7,366.0,Amex,Female,Single,62
+24,Standard,2,174.0,Berzatto House Account,Female,Single,26
+25,Discount,2,139.5,Visa,Male,Single,23
+26,Discount,1,130.02,Berzatto House Account,Male,Single,45
+27,Standard,1,144.5,Berzatto House Account,Female,Single,24
+28,Discount,5,292.8,Berzatto House Account,Female,Single,61
+29,Discount,3,171.2,Berzatto House Account,Female,Single,61
+30,Discount,1,118.0,Berzatto House Account,Female,Single,37
+31,Discount,2,163.2,MasterCard,Male,Single,47
+32,Standard,1,175.0,Berzatto House Account,Female,Single,26
+33,Discount,3,163.2,Berzatto House Account,Female,Single,28
+34,Standard,1,140.0,Berzatto House Account,Male,Married,22
+35,Discount,5,205.5,MasterCard,Female,Married,45
+36,Standard,1,129.5,MasterCard,Male,Married,21
+37,Standard,2,202.5,Visa,Female,Single,27
+38,Discount,6,217.5,Berzatto House Account,Female,Single,50
+39,Discount,5,113.23,Berzatto House Account,Female,Single,18
+40,Standard,2,152.5,Berzatto House Account,Male,Single,21
+41,Discount,13,298.8,Berzatto House Account,Male,Single,44
+42,Discount,4,119.5,Visa,Female,Single,30
+43,Standard,2,223.5,Berzatto House Account,Male,Single,21
+44,Discount,1,162.4,Berzatto House Account,Male,Married,20
+45,Discount,2,123.8,Berzatto House Account,Male,Single,56
+46,Discount,2,139.6,Berzatto House Account,Male,Single,23
+47,Standard,1,125.0,MasterCard,Male,Single,23
+48,Discount,3,163.64,Berzatto House Account,Male,Single,26
+49,Discount,1,114.82,Berzatto House Account,Female,Single,54
+50,Discount,9,245.2,MasterCard,Female,Single,50
+51,Discount,6,276.62,Berzatto House Account,Male,Married,59
+52,Discount,5,218.8,Berzatto House Account,Female,Single,61
+53,Standard,1,158.0,Discover,Female,Married,27
+54,Standard,2,174.0,Visa,Female,Married,23
+55,Standard,2,149.5,MasterCard,Female,Single,26
+56,Discount,3,241.6,Berzatto House Account,Male,Married,49
+57,Discount,6,223.1,Berzatto House Account,Female,Single,49
+58,Discount,2,180.4,Berzatto House Account,Female,Single,41
+59,Discount,4,165.2,MasterCard,Male,Single,58
+60,Discount,4,213.0,Berzatto House Account,Male,Single,29
+61,Discount,1,208.8,Berzatto House Account,Female,Single,56
+62,Discount,3,159.91,Berzatto House Account,Female,Single,19
+63,Discount,5,153.6,Berzatto House Account,Female,Married,20
+64,Discount,1,131.6,Berzatto House Account,Female,Single,54
+65,Discount,2,149.5,Berzatto House Account,Female,Single,34
+66,Discount,1,139.6,Berzatto House Account,Female,Single,19
+67,Discount,2,159.5,Berzatto House Account,Male,Single,19
+68,Discount,5,246.8,Berzatto House Account,Female,Married,45
+69,Discount,2,147.2,Berzatto House Account,Female,Single,40
+70,Discount,8,195.05,Berzatto House Account,Male,Married,54
+71,Discount,5,255.32,Berzatto House Account,Male,Single,49
+72,Discount,4,158.0,MasterCard,Male,Single,50
+73,Standard,1,169.0,Berzatto House Account,Male,Single,21
+74,Discount,2,146.5,Berzatto House Account,Female,Married,36
+75,Discount,2,145.22,Berzatto House Account,Female,Single,19
+76,Discount,4,184.74,Berzatto House Account,Female,Single,61
+77,Standard,2,139.0,Berzatto House Account,Female,Single,22
+78,Discount,4,211.14,Berzatto House Account,Female,Single,49
+79,Discount,3,186.8,Berzatto House Account,Female,Single,23
+80,Standard,2,189.0,Discover,Male,Single,27
+81,Discount,2,178.0,MasterCard,Female,Married,21
+82,Discount,6,153.2,Berzatto House Account,Male,Single,28
+83,Discount,4,158.5,Visa,Male,Single,34
+84,Discount,3,146.0,Berzatto House Account,Female,Single,55
+85,Standard,2,137.5,Visa,Male,Single,25
+86,Discount,1,120.8,Berzatto House Account,Female,Single,51
+87,Standard,6,244.0,MasterCard,Male,Single,26
+88,Standard,4,207.0,Berzatto House Account,Female,Single,26
+89,Discount,1,131.6,Berzatto House Account,Male,Married,28
+90,Discount,6,157.6,Berzatto House Account,Female,Single,33
+91,Discount,4,195.2,Berzatto House Account,Female,Single,50
+92,Discount,1,122.42,Berzatto House Account,Female,Single,26
+93,Standard,5,259.75,Berzatto House Account,Female,Single,24
+94,Discount,17,329.5,Berzatto House Account,Female,Single,23
+95,Standard,3,166.0,Amex,Male,Single,25
+96,Standard,1,139.5,MasterCard,Male,Single,23
+97,Discount,9,353.0,Berzatto House Account,Male,Single,37
+98,Discount,10,387.59,Berzatto House Account,Female,Single,53
+99,Discount,2,147.6,Berzatto House Account,Male,Single,36
+100,Discount,1,128.44,Berzatto House Account,Female,Single,43
